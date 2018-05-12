@@ -1,10 +1,16 @@
 _repo: The-Boys-Book-of-Rulers_50510
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50510-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Lydia Hoyt
     gutenberg_agent_id: '45950'
     url: http://www.gutenberg.org/2009/agents/45950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50510#The-Boys-Book-of-Rulers
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
